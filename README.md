@@ -1,5 +1,5 @@
 [<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/103375361/187285473-42841a57-ea00-4063-b92b-52fba9f84ad6.jpg" width="900"/>](https://github.com/soohoi?tab=repositories)
+  <img src="https://user-images.githubusercontent.com/103375361/187285473-42841a57-ea00-4063-b92b-52fba9f84ad6.jpg" width="750"/>](https://github.com/soohoi?tab=repositories)
 </div>
 
 # :wave: Hello everyone, my name is Misha and I am a beginner QA engineer :v:
